@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/mustafa_desouky" target="blank"><img src="https://img.shields.io/twitter/follow/mustafa_desouky?logo=twitter&style=for-the-badge" alt="mustafa_desouky" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce**
 
 - 🌱 I’m currently learning **Python**
 
