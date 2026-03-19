@@ -19,7 +19,7 @@ Stay tuned for updates soon!
 
 <p align="left">
   <!-- WhatsApp -->
-  <a href="https://wa.me/201234567890" target="_blank">
+  <a href="https://wa.me/201143237857" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="40" height="40"/>
   </a>
 
@@ -29,7 +29,7 @@ Stay tuned for updates soon!
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/mostafa-magdy-ba1096271/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
