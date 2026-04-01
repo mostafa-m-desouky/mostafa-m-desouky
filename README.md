@@ -7,12 +7,13 @@
 <p align="left"> <a href="https://twitter.com/mustafa_desouky" target="blank"><img src="https://img.shields.io/twitter/follow/mustafa_desouky?logo=twitter&style=for-the-badge" alt="mustafa_desouky" /></a> </p>
 
 
-### 🚀 Current Project
-I'm currently working on my **first real-world fullstack project** using:
-- Backend: Python, Flask, SQLite
-- Frontend: React
+🔭 Currently working on: LearnFlow (Django-based LMS).
 
-Stay tuned for updates soon!
+🌱 Learning: Advanced PostgreSQL Optimization & System Design.
+
+💬 Ask me about: Django, REST APIs, and Database Architecture.
+
+⚡ Fact: I believe clean code is written for humans first, then for machines.
 
 
 ### 📫 Reach Me
