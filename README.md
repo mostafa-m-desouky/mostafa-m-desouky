@@ -78,6 +78,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-m-desouky&layout=compact&theme=radical" alt="Top Languages" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-m-desouky&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
 </p>
