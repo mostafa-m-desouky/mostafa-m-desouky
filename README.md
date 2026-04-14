@@ -77,6 +77,7 @@
 </p>
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-m-desouky&layout=compact&theme=vision-friendly-dark)](https://github.com/mostafa-m-desouky/github-readme-stats)
-
-[![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafa-m-desouky&show_icons=true&theme=vision-friendly-dark)](https://github.com/mostafa-m-desouky/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa-m-desouky&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafa-m-desouky&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+</p>
