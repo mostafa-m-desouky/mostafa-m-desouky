@@ -19,7 +19,6 @@
 ### 📫 Reach Me
 
 <p align="left">
-  <p align="left">
   <a href="https://wa.me/201143237857" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="40" height="40"/>
   </a>
