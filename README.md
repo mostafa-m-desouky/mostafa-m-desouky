@@ -18,7 +18,7 @@
 
 ### 📫 Reach Me
 
-<p align="left">
+<p align="left" style="display:inline-block; margin-right:10px;">
   <a href="https://wa.me/201143237857" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="40" height="40"/>
   </a>
@@ -33,7 +33,7 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
+<p align="left" style="display:inline-block; margin-right:10px;">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
